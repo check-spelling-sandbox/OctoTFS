@@ -222,7 +222,7 @@ Options include:
 
 ## Version 6 of Deploy Release step
 
-From version 6, the deploy release step is split into two seperate functions for normal deployments and tenanted deployments
+From version 6, the deploy release step is split into two separate functions for normal deployments and tenanted deployments
 
 ### <a name="deploy-octopus-release"></a>![Deploy Release Image](img/octopus_deploy-02.png) Deploy Octopus Release (v6 or later)
 
